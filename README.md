@@ -1,3 +1,5 @@
+This project demonstrates the automation of a login/signup feature for a website using Selenium and TestNG. It focuses on modularity and scalability, employing design patterns and frameworks to ensure efficient and maintainable code.
+
 #Key Features
 
 1-Page Factory Implementation:
